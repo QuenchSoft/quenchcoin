@@ -106,7 +106,7 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1
 
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
-  "http://QuenchCoin-prevter665176.codeanyapp.com:9368",
+  "91.231.85.185:9368",
 };
 
 struct CheckpointData {
